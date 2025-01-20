@@ -14,7 +14,7 @@ public class ConsultaAPI {
 
     void muestraConsulta(String baseCoin, String exchangeCoin, double amount) {
 
-        String clave = "1a21dec1f56d30a34674f06d";
+        String clave = TU_API_KEY;
         URI direccion = URI.create("https://v6.exchangerate-api.com/v6/" + clave + "/pair/" + baseCoin + "/" + exchangeCoin + "/" + amount);
 
         HttpClient client = HttpClient.newHttpClient();
