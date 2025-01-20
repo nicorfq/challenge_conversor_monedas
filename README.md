@@ -58,6 +58,8 @@ El usuario debe ser capaz de seleccionar una de las 8 opciones disponibles de co
 ---
 <h2 id="uso">Cómo usar:</h2>
 
+* Debes ingresar tu propia API KEY en el archivo ConsultaAPI.java para que la aplicación funcione correctamente.
+
 1. Al iniciar, la aplicación le preguntará si desea hacer una conversión. El usuario debe ingresar si o no según corresponda.
    
 ![imagen](./assets/menu_inicio.png)
