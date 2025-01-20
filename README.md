@@ -60,16 +60,18 @@ El usuario debe ser capaz de seleccionar una de las 8 opciones disponibles de co
 1. Al iniciar, la aplicación le preguntará si desea hacer una conversión. El usuario debe ingresar si o no según corresponda.
    
 ![imagen](./assets/menu_inicio.png)
+
 2. Debe seleccionar una de las 8 opciones de conversión ingresando el número de la opción.
 
 ![imagen](./assets/menu_opciones.png)
+
 3. Luego debe ingresar el monto de dinero que quiere convertir, separando los decimales con un punto.
 
 4. La aplicación devolverá el valor de cambio según lo seleccionado, junto con la fecha y la hora.
 
 ![imagen](./assets/monto_convertido.png)
 
-4. Finalmente, la aplicación volverá a preguntar si desea hacer una conversión nuevamente.
+5. Finalmente, la aplicación volverá a preguntar si desea hacer una conversión nuevamente.
    ![imagen](./assets/convertir_nuevamente.png)
 
 ---
